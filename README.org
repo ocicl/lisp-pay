@@ -4,6 +4,6 @@ Wrappers around various Payment Processors
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/K1D77A/lisp-pay.git |
-| commit  | 13f9ad6                                    |
+| commit  | ab48d41                                    |
 | systems | lisp-pay                                   |
 |---------+--------------------------------------------|
